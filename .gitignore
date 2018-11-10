@@ -1,0 +1,6 @@
+
+align
+
+*.pyc
+
+.vscode
